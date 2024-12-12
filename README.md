@@ -22,9 +22,9 @@
 
 😄 Pronouns: He/Him
 
-⚡ Fun fact: I transitioned from mechanical engineering to web development in 2024 and love learning new technologies every day!
+⚡ Fun fact: I am Mechanical Engineer 🛠!
 
-**Rockstar Mali...**
+**Rockstar Mali... 🚀🚀**
 
 
 <!---
