@@ -2,8 +2,8 @@
 
 👀 I’m interested in:
 - **Backend:** Python, Django, Django REST Framework (DRF)
-- **Frontend:** JavaScript, React, HTML, CSS, Tailwind CSS
-- **Database:** MySQL, PostgreSQL
+- **Frontend:** JavaScript, React, HTML, CSS,
+- **Database:** MySQL
 - **Version Control:** Git, GitHub
 
 🌱 I’m currently learning:
