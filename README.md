@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Priyank-Mali [Portfolio](https://priyankmali.pythonanywhere.com)
+# 👋 Hi, I’m @Priyank Mali [Portfolio](https://priyankmali.pythonanywhere.com)
 
 👀 I’m interested in:
 - **Backend:** Python, Django, Django REST Framework (DRF)
@@ -18,7 +18,7 @@
 
 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/priyankmali297/)
-- [Email](priyankmali297@gmail.com)
+- priyankmali297@gmail.com
 
 😄 Pronouns: He/Him
 
